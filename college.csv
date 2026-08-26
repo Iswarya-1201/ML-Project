@@ -1,0 +1,1001 @@
+﻿level,cgpa,technical_skill,aptitude,certifications,projects,communication,target
+College,6.14,89,76,0,3,78,Cloud Engineer
+College,7.79,62,83,4,8,74,Software Engineer
+College,9.9,74,56,6,8,58,HR Executive
+College,6.34,58,66,10,0,77,Web Developer
+College,9.67,59,66,5,1,86,Web Developer
+College,8.38,60,73,3,10,68,AI Engineer
+College,6.68,79,79,7,0,64,Cybersecurity Analyst
+College,9.56,59,96,0,2,85,HR Executive
+College,7.01,93,89,8,8,87,Digital Marketing Specialist
+College,7.91,55,80,0,7,75,Cybersecurity Analyst
+College,6.71,87,63,4,1,53,Cloud Engineer
+College,9.93,92,79,4,6,60,Digital Marketing Specialist
+College,9.06,96,99,6,2,89,Business Analyst
+College,8.87,73,85,8,7,79,Cybersecurity Analyst
+College,7.71,67,50,6,3,98,Data Scientist
+College,6.79,91,88,1,6,62,Web Developer
+College,8.39,71,55,3,8,94,Cloud Engineer
+College,9.33,77,95,2,2,58,Mobile App Developer
+College,6.34,91,62,1,5,95,Data Scientist
+College,7.57,64,52,1,4,92,Cloud Engineer
+College,8.44,99,67,10,10,62,AI Engineer
+College,6.44,52,51,3,2,76,Web Developer
+College,6.44,67,85,8,0,55,AI Engineer
+College,9.61,92,73,10,8,100,AI Engineer
+College,7.92,72,96,10,8,60,Cloud Engineer
+College,9.06,93,90,9,3,52,Software Engineer
+College,6.12,76,72,1,5,57,Software Engineer
+College,9.08,65,87,5,7,98,Cybersecurity Analyst
+College,6.3,97,72,8,9,93,Business Analyst
+College,8.26,63,97,9,9,87,Data Scientist
+College,6.87,52,77,5,4,66,AI Engineer
+College,9.26,66,95,4,7,51,Software Engineer
+College,9.4,62,53,9,9,73,Software Engineer
+College,6.97,79,94,0,1,53,Project Manager
+College,8.14,58,61,2,5,87,AI Engineer
+College,6.14,61,53,5,8,56,Mobile App Developer
+College,9.5,81,89,3,0,90,AI Engineer
+College,9.56,78,69,7,1,66,Mobile App Developer
+College,7.48,64,86,0,5,74,AI Engineer
+College,7.32,76,89,1,0,57,Web Developer
+College,6.17,79,87,1,5,92,Web Developer
+College,9.63,57,69,9,10,92,Mobile App Developer
+College,8.77,100,55,0,0,54,Project Manager
+College,6.4,57,62,7,3,86,Web Developer
+College,8.97,94,79,2,3,64,Business Analyst
+College,6.02,79,67,5,7,60,Cloud Engineer
+College,9.43,74,63,5,8,77,Web Developer
+College,6.77,82,82,0,2,82,Data Scientist
+College,7.17,91,57,4,3,88,Software Engineer
+College,6.91,100,62,6,10,95,Software Engineer
+College,7.1,81,51,2,0,95,Mobile App Developer
+College,6.86,82,97,1,3,86,Project Manager
+College,9.91,83,55,4,10,97,Data Scientist
+College,8.93,86,99,10,6,62,Software Engineer
+College,9.33,94,93,1,0,68,Digital Marketing Specialist
+College,7.51,61,70,4,3,86,Cybersecurity Analyst
+College,9.67,86,62,6,5,50,Digital Marketing Specialist
+College,6.06,89,67,0,0,100,Cloud Engineer
+College,7.85,85,74,8,1,75,HR Executive
+College,7.1,56,62,7,7,51,Data Scientist
+College,9.28,61,69,0,6,60,AI Engineer
+College,7.1,51,74,1,9,54,Cloud Engineer
+College,9.07,83,82,0,0,52,Cybersecurity Analyst
+College,6.05,84,90,10,1,50,Cybersecurity Analyst
+College,9.29,73,76,6,9,68,Cloud Engineer
+College,6.21,95,99,5,2,63,Business Analyst
+College,9.94,88,60,1,8,98,AI Engineer
+College,6.07,91,84,10,1,51,Business Analyst
+College,8.53,84,65,10,10,95,Project Manager
+College,8.43,71,88,7,8,69,Project Manager
+College,9.44,93,66,3,0,51,Project Manager
+College,6.75,59,62,9,5,84,Digital Marketing Specialist
+College,8.65,62,56,8,7,94,Cloud Engineer
+College,8.98,82,59,4,1,65,HR Executive
+College,9.58,88,51,6,4,60,Software Engineer
+College,6.75,56,64,8,3,73,Project Manager
+College,6.85,52,57,3,0,54,Cloud Engineer
+College,6.91,91,68,5,8,52,Data Scientist
+College,8.31,55,94,8,8,85,Project Manager
+College,6.94,67,84,7,7,88,Web Developer
+College,7,55,92,1,3,84,Cloud Engineer
+College,9.6,75,70,2,10,97,Business Analyst
+College,6.67,71,80,8,5,83,Project Manager
+College,6.35,71,71,1,9,75,Project Manager
+College,9.74,91,95,4,9,73,Business Analyst
+College,6.45,52,53,3,7,54,Project Manager
+College,8.15,60,57,0,6,100,Data Scientist
+College,8.99,64,93,4,7,68,Project Manager
+College,9.51,67,78,10,7,75,AI Engineer
+College,6.88,74,79,8,10,56,Cybersecurity Analyst
+College,7.17,97,79,0,9,93,Software Engineer
+College,7.58,98,66,2,4,89,HR Executive
+College,6.83,98,56,8,0,88,Data Scientist
+College,8.26,95,100,6,8,51,Mobile App Developer
+College,8.49,96,64,4,7,78,Mobile App Developer
+College,7.67,90,81,1,10,93,Project Manager
+College,7.35,52,85,4,7,97,HR Executive
+College,7.43,81,98,5,6,60,AI Engineer
+College,9.23,61,66,10,1,89,Digital Marketing Specialist
+College,7.23,90,77,8,10,70,HR Executive
+College,8.89,53,53,8,8,83,Business Analyst
+College,6.48,96,63,8,10,76,Digital Marketing Specialist
+College,7.95,86,89,10,4,85,Cloud Engineer
+College,9.72,50,82,2,9,94,Data Scientist
+College,9.99,56,72,6,2,82,AI Engineer
+College,7.61,70,70,7,2,96,AI Engineer
+College,9.93,66,67,0,8,74,Web Developer
+College,9.62,92,83,7,9,52,Cloud Engineer
+College,9.73,51,72,9,7,99,HR Executive
+College,8.12,75,72,0,8,78,Business Analyst
+College,8.51,91,89,10,6,88,Digital Marketing Specialist
+College,6.82,51,83,10,0,71,Data Scientist
+College,9.06,89,53,5,1,60,Data Scientist
+College,6.55,95,61,9,7,56,Cloud Engineer
+College,8.93,90,70,5,10,70,HR Executive
+College,9.62,100,100,3,0,68,Cybersecurity Analyst
+College,8.75,51,91,0,8,61,Mobile App Developer
+College,7.87,54,64,2,1,91,Digital Marketing Specialist
+College,9.82,52,76,7,4,89,Web Developer
+College,7.57,76,51,5,1,87,Mobile App Developer
+College,9.85,51,73,4,3,81,Project Manager
+College,7.59,91,76,9,4,53,Mobile App Developer
+College,8.15,58,81,2,0,69,Digital Marketing Specialist
+College,8.55,92,93,3,3,100,Software Engineer
+College,7.37,97,60,5,0,65,HR Executive
+College,9.43,61,80,10,0,55,AI Engineer
+College,6.84,100,79,10,5,73,Digital Marketing Specialist
+College,6.87,68,100,1,2,82,Cybersecurity Analyst
+College,7.66,77,59,10,2,96,Cybersecurity Analyst
+College,8.35,71,87,4,6,96,Digital Marketing Specialist
+College,7.39,74,64,3,10,79,Cloud Engineer
+College,7.29,87,54,5,6,60,Data Scientist
+College,9.29,68,94,6,2,69,Business Analyst
+College,6.29,96,78,6,0,82,Data Scientist
+College,6.91,97,75,0,10,66,Cybersecurity Analyst
+College,8.39,60,95,1,7,81,Cybersecurity Analyst
+College,7.79,86,81,4,8,81,Cybersecurity Analyst
+College,8.3,86,88,6,3,53,HR Executive
+College,6,53,87,7,2,50,Digital Marketing Specialist
+College,8.07,53,67,8,2,78,Data Scientist
+College,9.62,88,98,5,3,68,HR Executive
+College,7.09,88,86,2,10,100,Cloud Engineer
+College,6.17,93,98,6,10,95,HR Executive
+College,8.1,55,66,10,2,86,HR Executive
+College,9.2,92,65,5,6,77,Data Scientist
+College,9.54,84,85,4,6,61,Data Scientist
+College,9.76,81,60,3,10,94,Software Engineer
+College,6.45,55,66,5,7,72,Cybersecurity Analyst
+College,8.91,53,70,9,5,99,AI Engineer
+College,9.43,58,50,0,8,93,Software Engineer
+College,8.8,58,86,0,8,98,Business Analyst
+College,7.39,69,51,7,5,52,Project Manager
+College,9.46,71,61,4,0,81,AI Engineer
+College,9.22,91,100,4,4,50,Mobile App Developer
+College,9.2,92,99,5,4,96,Data Scientist
+College,9.6,67,59,0,4,80,Digital Marketing Specialist
+College,7.58,75,68,1,8,92,Business Analyst
+College,8.41,51,54,4,8,74,Data Scientist
+College,7.43,52,93,2,5,98,HR Executive
+College,8.49,52,78,0,8,88,AI Engineer
+College,9.54,95,71,9,0,74,Mobile App Developer
+College,6.91,54,74,2,0,79,Digital Marketing Specialist
+College,6.65,64,52,2,5,54,Cloud Engineer
+College,7.16,78,63,3,6,51,Cybersecurity Analyst
+College,8.35,52,55,6,0,74,Web Developer
+College,7.14,81,94,9,5,61,HR Executive
+College,7.43,85,54,6,7,84,Cybersecurity Analyst
+College,6.71,67,63,2,10,100,Web Developer
+College,8.98,93,78,2,2,71,Cybersecurity Analyst
+College,9.87,68,98,4,9,85,Cybersecurity Analyst
+College,6.71,90,77,9,9,74,Digital Marketing Specialist
+College,9.61,69,81,7,2,62,Data Scientist
+College,9.28,55,60,2,2,95,Digital Marketing Specialist
+College,6.57,89,89,9,6,84,HR Executive
+College,7.48,50,57,0,2,65,Web Developer
+College,9.33,80,76,5,8,93,HR Executive
+College,7.96,86,76,1,7,77,Data Scientist
+College,7.42,73,55,0,2,83,Project Manager
+College,9.68,90,75,10,2,56,Cloud Engineer
+College,8.51,50,68,9,1,53,Digital Marketing Specialist
+College,6.31,55,68,10,6,98,Web Developer
+College,6.45,66,53,3,3,82,HR Executive
+College,6.11,100,63,6,3,93,Project Manager
+College,9.7,81,57,10,10,98,Digital Marketing Specialist
+College,7.46,77,74,8,4,92,HR Executive
+College,9.95,88,68,7,3,64,Project Manager
+College,7.07,76,87,9,2,68,HR Executive
+College,9.05,91,84,3,8,96,AI Engineer
+College,9.77,66,74,8,3,66,AI Engineer
+College,7.55,81,76,8,6,51,Cloud Engineer
+College,7.96,51,72,6,7,81,Mobile App Developer
+College,8.83,62,99,4,1,79,Software Engineer
+College,7.72,87,53,5,5,59,Mobile App Developer
+College,9.46,51,73,5,5,74,Cloud Engineer
+College,8.63,82,82,2,3,71,Cybersecurity Analyst
+College,9.29,90,93,1,2,79,HR Executive
+College,8.44,79,82,4,6,90,Project Manager
+College,8.93,66,72,6,8,58,Cloud Engineer
+College,7.03,96,64,7,9,59,Mobile App Developer
+College,7.37,56,77,6,10,50,AI Engineer
+College,9.69,90,90,8,6,79,Data Scientist
+College,7.02,94,86,8,9,56,Cybersecurity Analyst
+College,8.02,72,59,9,5,93,Cloud Engineer
+College,9.97,98,82,9,5,74,Software Engineer
+College,7.21,61,79,10,3,73,Web Developer
+College,9.28,86,62,5,1,85,Project Manager
+College,6.85,93,55,6,2,97,Business Analyst
+College,7.23,89,99,4,1,63,Software Engineer
+College,7.35,94,63,5,2,90,Software Engineer
+College,9.82,86,57,4,3,62,AI Engineer
+College,8.14,58,88,10,8,65,HR Executive
+College,7.28,95,97,7,0,61,Mobile App Developer
+College,6.92,94,62,8,6,65,Cybersecurity Analyst
+College,7.52,94,61,1,1,69,HR Executive
+College,8.78,87,67,9,2,82,Web Developer
+College,9.77,99,54,8,9,90,HR Executive
+College,6.15,67,88,10,3,70,Software Engineer
+College,6.8,54,75,4,5,60,Business Analyst
+College,8.33,98,70,0,6,76,AI Engineer
+College,7.3,78,97,9,5,51,HR Executive
+College,6.29,87,59,0,8,66,Software Engineer
+College,9.62,76,62,9,8,93,AI Engineer
+College,8.38,92,97,2,9,83,Business Analyst
+College,6.94,92,57,9,3,96,Business Analyst
+College,9.07,65,97,5,10,86,Data Scientist
+College,8.81,90,80,3,10,96,Project Manager
+College,7.7,67,70,7,5,64,Data Scientist
+College,7.61,51,66,6,10,89,Project Manager
+College,9.57,59,67,9,2,92,Mobile App Developer
+College,7.23,92,71,1,9,99,Software Engineer
+College,6.19,94,85,9,10,77,Digital Marketing Specialist
+College,7.42,70,74,4,2,100,AI Engineer
+College,9.34,100,88,5,2,70,Cybersecurity Analyst
+College,8.66,78,50,3,2,71,AI Engineer
+College,8.38,73,81,2,7,96,Business Analyst
+College,8.84,58,77,8,5,91,Mobile App Developer
+College,8.72,82,70,4,0,93,Software Engineer
+College,8.61,82,73,1,8,57,Mobile App Developer
+College,8.61,64,61,0,2,60,Mobile App Developer
+College,6.92,69,81,1,5,87,Digital Marketing Specialist
+College,9.57,79,75,10,8,66,AI Engineer
+College,9.47,55,73,7,3,95,Software Engineer
+College,7.48,73,58,2,9,68,Digital Marketing Specialist
+College,6.35,69,74,8,9,55,Mobile App Developer
+College,7.3,50,91,6,6,50,HR Executive
+College,6.27,94,67,2,0,85,Project Manager
+College,9.45,67,76,5,8,71,Data Scientist
+College,9.02,56,50,7,8,74,Project Manager
+College,6.69,63,91,4,1,67,Web Developer
+College,9.03,65,92,2,3,52,Digital Marketing Specialist
+College,9.69,70,66,9,6,82,Data Scientist
+College,8.4,72,59,10,2,96,Project Manager
+College,6.05,90,68,7,0,54,Data Scientist
+College,6.18,68,100,3,6,78,Mobile App Developer
+College,7.75,85,83,0,9,95,Mobile App Developer
+College,7.31,84,68,9,2,54,Web Developer
+College,7.44,70,54,0,9,91,Cybersecurity Analyst
+College,8.68,75,72,5,2,69,Digital Marketing Specialist
+College,9.97,53,63,2,4,68,AI Engineer
+College,9.85,78,77,3,0,70,Cybersecurity Analyst
+College,9.81,96,87,9,3,59,Cybersecurity Analyst
+College,6.87,67,95,4,2,85,Data Scientist
+College,9.86,67,84,9,3,97,Cloud Engineer
+College,6.36,83,98,0,0,98,Data Scientist
+College,9.93,50,68,3,6,81,Cybersecurity Analyst
+College,6.81,54,66,3,7,99,Mobile App Developer
+College,6.86,66,98,2,10,62,Mobile App Developer
+College,8.79,51,68,2,8,91,Web Developer
+College,7.09,64,53,10,3,84,Cloud Engineer
+College,7.8,70,72,9,5,85,Software Engineer
+College,8.36,73,89,8,1,94,HR Executive
+College,8.17,61,66,2,4,78,Cloud Engineer
+College,6.56,94,64,10,7,81,Business Analyst
+College,9.45,57,56,7,5,58,Mobile App Developer
+College,7.03,56,74,8,6,74,Digital Marketing Specialist
+College,9.01,71,69,2,9,80,AI Engineer
+College,6,57,65,8,10,58,Business Analyst
+College,6.58,61,56,0,0,78,Business Analyst
+College,7.11,59,100,8,5,74,Cloud Engineer
+College,6.69,72,67,1,9,71,Cloud Engineer
+College,8.85,85,67,7,0,84,Project Manager
+College,6.04,55,96,5,5,81,AI Engineer
+College,6.53,77,65,5,7,67,Cloud Engineer
+College,7.86,76,54,2,5,85,Cloud Engineer
+College,6.32,98,51,6,2,84,AI Engineer
+College,8.23,90,59,2,0,51,Digital Marketing Specialist
+College,6.57,64,69,8,2,86,Mobile App Developer
+College,8.24,94,83,10,5,84,Business Analyst
+College,7.4,63,69,10,5,80,AI Engineer
+College,9.26,56,93,6,4,59,Project Manager
+College,6.32,100,66,10,8,51,HR Executive
+College,9.67,75,88,9,3,71,Mobile App Developer
+College,9.73,50,85,10,10,83,Data Scientist
+College,7.4,97,94,7,4,89,Business Analyst
+College,7.99,90,64,10,9,72,Project Manager
+College,6.11,76,87,7,3,93,Digital Marketing Specialist
+College,6.64,77,73,2,3,55,Digital Marketing Specialist
+College,7.67,88,90,1,6,87,Digital Marketing Specialist
+College,8.66,70,98,2,6,55,Cloud Engineer
+College,6.86,70,63,7,10,79,Cybersecurity Analyst
+College,8.56,98,89,2,7,68,HR Executive
+College,8.17,88,64,7,2,91,Data Scientist
+College,7.35,57,58,4,8,82,Business Analyst
+College,8.52,75,50,10,5,76,Digital Marketing Specialist
+College,6.31,60,73,5,2,100,Data Scientist
+College,8.12,92,92,4,1,50,Cybersecurity Analyst
+College,7.22,85,69,3,0,71,Mobile App Developer
+College,9.46,69,68,4,3,77,Project Manager
+College,7.8,75,54,10,2,99,Data Scientist
+College,7.33,96,77,3,10,61,AI Engineer
+College,9.35,65,72,8,7,99,Cybersecurity Analyst
+College,6.55,86,84,7,7,54,AI Engineer
+College,6.79,75,72,9,2,68,Software Engineer
+College,7.25,80,96,9,7,79,Business Analyst
+College,8.73,70,61,0,7,94,HR Executive
+College,9.04,58,65,7,8,88,HR Executive
+College,8.53,52,94,3,3,82,AI Engineer
+College,9.3,57,55,3,0,79,Web Developer
+College,9.94,55,90,6,6,50,Mobile App Developer
+College,9.58,51,60,8,2,99,Data Scientist
+College,9.66,74,75,4,2,100,AI Engineer
+College,7.1,84,64,7,5,88,Project Manager
+College,6.21,100,50,5,8,69,Cybersecurity Analyst
+College,6.22,66,52,4,7,56,Cybersecurity Analyst
+College,9.93,67,52,8,5,54,Cloud Engineer
+College,6.04,53,96,0,4,71,Cloud Engineer
+College,8.82,77,68,7,2,76,Cloud Engineer
+College,9.08,78,64,1,8,95,Mobile App Developer
+College,6.69,86,83,6,3,86,Software Engineer
+College,7.79,93,100,1,8,67,Cloud Engineer
+College,6.84,72,79,2,2,80,Software Engineer
+College,7.5,83,69,3,4,98,Digital Marketing Specialist
+College,8.07,68,76,3,9,78,Project Manager
+College,10,73,89,4,6,82,Web Developer
+College,9.49,93,98,7,3,50,Web Developer
+College,8.55,74,52,3,1,83,Data Scientist
+College,8.03,61,55,10,8,73,Cybersecurity Analyst
+College,9.06,50,58,0,2,76,Web Developer
+College,8.74,88,84,2,8,81,Software Engineer
+College,7.18,53,77,2,0,68,Mobile App Developer
+College,7.29,66,86,4,4,96,Cloud Engineer
+College,9.61,94,90,0,3,92,AI Engineer
+College,9.25,82,85,6,3,59,Web Developer
+College,6.12,77,76,3,4,75,AI Engineer
+College,6.71,56,100,10,2,81,AI Engineer
+College,7.33,73,84,3,9,63,AI Engineer
+College,9.58,100,85,3,3,52,Digital Marketing Specialist
+College,8.96,72,80,2,7,97,HR Executive
+College,6.25,91,95,4,8,61,AI Engineer
+College,9.73,55,85,9,10,80,Digital Marketing Specialist
+College,8.34,59,96,10,2,60,Business Analyst
+College,6.43,97,90,5,3,82,HR Executive
+College,6.63,50,70,1,4,69,Project Manager
+College,9.9,80,94,4,1,100,Digital Marketing Specialist
+College,8.61,94,72,9,1,54,HR Executive
+College,6.94,54,59,8,0,87,HR Executive
+College,6.88,75,55,8,3,53,Project Manager
+College,9.92,78,82,5,3,89,HR Executive
+College,6.88,90,75,6,0,99,AI Engineer
+College,6.51,95,97,8,7,57,Business Analyst
+College,7.1,89,55,7,4,57,Cloud Engineer
+College,6.59,88,81,10,7,55,HR Executive
+College,7.54,60,53,0,6,73,Cybersecurity Analyst
+College,8.42,85,52,9,4,73,Software Engineer
+College,6.72,95,82,3,0,59,AI Engineer
+College,6.3,72,81,10,4,93,HR Executive
+College,9.49,59,68,7,4,99,Digital Marketing Specialist
+College,7.46,67,73,4,8,52,HR Executive
+College,6.55,78,57,1,8,65,Business Analyst
+College,9.83,56,58,9,5,85,Digital Marketing Specialist
+College,8.04,55,59,7,8,81,Cybersecurity Analyst
+College,6.01,61,58,6,0,96,Data Scientist
+College,6.85,50,80,6,4,57,Cloud Engineer
+College,6.33,89,87,7,8,56,Cybersecurity Analyst
+College,9.98,63,72,8,3,60,Business Analyst
+College,8.62,76,70,0,8,78,Data Scientist
+College,9.83,78,62,8,5,94,Business Analyst
+College,6.14,71,67,8,4,96,Business Analyst
+College,9.98,90,87,5,2,51,Web Developer
+College,9.47,98,68,6,0,70,Web Developer
+College,6.43,80,59,4,8,85,AI Engineer
+College,7.76,57,94,4,1,54,Project Manager
+College,6.16,79,54,4,0,66,Web Developer
+College,9.59,92,72,10,10,82,Mobile App Developer
+College,8.73,63,76,5,5,78,Cybersecurity Analyst
+College,7.09,99,83,5,8,52,Cybersecurity Analyst
+College,7.56,86,56,4,6,65,Software Engineer
+College,9.24,99,75,4,8,59,Digital Marketing Specialist
+College,6.17,53,92,4,8,53,AI Engineer
+College,6.02,54,92,8,2,90,Cloud Engineer
+College,9.52,78,76,2,8,61,Data Scientist
+College,8.48,61,98,0,5,71,AI Engineer
+College,6.09,70,67,0,9,63,Data Scientist
+College,7.54,84,92,1,4,92,Web Developer
+College,9.72,62,66,4,5,70,Software Engineer
+College,9.06,84,78,4,2,97,HR Executive
+College,7.8,95,99,8,8,53,Mobile App Developer
+College,8.58,79,87,10,0,93,Cloud Engineer
+College,9.87,98,74,5,6,65,AI Engineer
+College,9.96,90,67,0,10,51,Digital Marketing Specialist
+College,9.33,54,95,9,10,97,Mobile App Developer
+College,8.74,55,99,0,1,92,Business Analyst
+College,6.09,85,83,0,1,63,AI Engineer
+College,7.56,57,87,0,1,99,Cloud Engineer
+College,9.1,58,93,9,5,86,Software Engineer
+College,6.8,66,77,8,2,91,Data Scientist
+College,7.03,64,74,0,10,61,Data Scientist
+College,9.67,82,100,1,2,93,Data Scientist
+College,8.09,91,73,10,6,65,Business Analyst
+College,9.43,54,97,5,5,93,Project Manager
+College,8.98,92,74,1,4,88,Digital Marketing Specialist
+College,8.69,60,100,6,4,74,Web Developer
+College,9.36,97,90,4,6,58,Project Manager
+College,8.44,65,74,9,0,55,Cybersecurity Analyst
+College,9.51,75,88,9,1,82,Digital Marketing Specialist
+College,8.96,73,72,1,8,82,Software Engineer
+College,9.81,71,52,9,10,100,Business Analyst
+College,9.32,63,84,10,5,53,Project Manager
+College,8.86,58,81,5,0,86,Cloud Engineer
+College,9.84,56,99,9,1,64,Mobile App Developer
+College,6.37,65,98,10,7,71,Cloud Engineer
+College,8.3,70,57,3,9,65,Web Developer
+College,8.14,78,64,8,7,70,Data Scientist
+College,9.14,61,93,3,1,99,Software Engineer
+College,6.82,67,55,8,1,86,Web Developer
+College,6.59,97,79,2,0,72,HR Executive
+College,9.93,64,72,0,7,70,HR Executive
+College,6.34,97,89,3,0,69,Web Developer
+College,9.8,63,68,2,4,50,Cybersecurity Analyst
+College,6.09,81,56,4,9,57,Cybersecurity Analyst
+College,8.76,52,92,1,3,52,Cloud Engineer
+College,9.36,83,82,3,8,79,Data Scientist
+College,6.88,59,86,4,8,85,Web Developer
+College,9.61,75,95,3,8,76,Project Manager
+College,7.08,78,54,3,7,58,HR Executive
+College,6.97,59,67,1,9,56,Data Scientist
+College,9.55,87,71,5,10,59,Software Engineer
+College,6.51,57,100,6,7,76,Web Developer
+College,8.17,53,76,2,9,75,Digital Marketing Specialist
+College,9.24,76,68,3,8,95,Software Engineer
+College,9.05,99,66,9,0,50,Cloud Engineer
+College,6.78,57,53,5,8,79,Digital Marketing Specialist
+College,7.44,81,59,5,3,98,HR Executive
+College,7.23,53,52,4,0,96,Mobile App Developer
+College,9.9,73,64,0,7,78,Web Developer
+College,6.33,62,94,2,0,51,Data Scientist
+College,8.3,85,86,1,10,54,HR Executive
+College,6.58,61,87,6,7,73,Project Manager
+College,9.84,77,84,2,9,91,Cybersecurity Analyst
+College,8.97,85,98,0,4,89,Mobile App Developer
+College,8.29,57,96,8,10,50,AI Engineer
+College,8.04,66,50,2,1,71,Mobile App Developer
+College,9.26,59,52,3,1,69,Business Analyst
+College,8.38,74,83,5,7,78,AI Engineer
+College,7.33,90,63,10,1,65,Digital Marketing Specialist
+College,6.38,87,85,4,3,99,AI Engineer
+College,8.1,82,70,5,9,53,Digital Marketing Specialist
+College,7.73,76,77,8,1,84,Web Developer
+College,6.86,74,92,1,8,98,Data Scientist
+College,7.74,91,82,6,8,70,Software Engineer
+College,8.14,92,79,2,4,94,Digital Marketing Specialist
+College,8.93,72,69,9,8,53,Software Engineer
+College,6.26,69,87,8,5,58,Software Engineer
+College,6.57,64,54,6,9,52,HR Executive
+College,6.02,95,77,6,10,75,HR Executive
+College,8.14,82,85,9,6,100,Mobile App Developer
+College,9,83,60,8,5,89,Data Scientist
+College,6.77,78,94,0,7,83,Cloud Engineer
+College,6.8,91,77,1,5,93,Project Manager
+College,8.29,75,89,10,9,52,AI Engineer
+College,9.12,56,93,3,10,80,Data Scientist
+College,6.29,66,85,9,5,80,Cloud Engineer
+College,8.43,56,95,6,5,97,Cloud Engineer
+College,9.31,89,64,8,5,71,Web Developer
+College,8.58,82,94,4,0,54,Cybersecurity Analyst
+College,8.36,73,59,1,3,52,HR Executive
+College,8.03,56,60,9,4,87,Web Developer
+College,8.39,80,83,2,4,85,Digital Marketing Specialist
+College,6.98,58,92,0,10,55,Web Developer
+College,6.68,94,78,4,7,64,Digital Marketing Specialist
+College,6.94,62,94,0,7,97,Digital Marketing Specialist
+College,8.09,90,98,8,6,64,Cloud Engineer
+College,9.63,80,81,3,1,75,AI Engineer
+College,6.86,56,94,6,6,99,Cloud Engineer
+College,6.54,72,100,5,8,61,Digital Marketing Specialist
+College,7.11,93,51,5,2,91,AI Engineer
+College,8.45,60,74,3,0,53,Cybersecurity Analyst
+College,8.79,81,63,3,3,86,Mobile App Developer
+College,7.39,89,90,7,2,77,Business Analyst
+College,8.22,77,57,3,6,85,Data Scientist
+College,7.43,63,64,4,3,93,Web Developer
+College,6.26,79,91,9,3,92,Web Developer
+College,9.6,54,66,8,10,54,Business Analyst
+College,6.49,76,91,4,1,90,Digital Marketing Specialist
+College,9.46,80,95,4,7,81,Mobile App Developer
+College,9.3,87,69,2,0,100,Cloud Engineer
+College,6.78,59,97,10,10,94,Digital Marketing Specialist
+College,9.64,59,84,0,9,88,AI Engineer
+College,7.62,79,58,0,2,62,Web Developer
+College,8.83,64,65,5,7,82,Mobile App Developer
+College,6.5,64,62,3,7,92,Cybersecurity Analyst
+College,6.22,92,74,5,1,99,Cybersecurity Analyst
+College,8.87,70,69,10,4,74,AI Engineer
+College,7.14,64,69,5,5,90,HR Executive
+College,6.65,63,59,9,7,87,Project Manager
+College,7.03,97,53,9,5,74,Cloud Engineer
+College,6.55,85,80,6,10,60,Project Manager
+College,7.91,63,99,6,10,79,Software Engineer
+College,6.92,80,79,9,0,50,Business Analyst
+College,9.03,64,63,1,10,94,AI Engineer
+College,6.11,76,65,7,8,86,Mobile App Developer
+College,7.72,95,92,5,6,83,HR Executive
+College,8.9,83,83,9,7,66,Software Engineer
+College,6.52,69,66,3,1,54,HR Executive
+College,9.87,57,75,2,4,83,Business Analyst
+College,9.12,65,61,7,5,70,Digital Marketing Specialist
+College,7.98,88,51,8,3,76,Mobile App Developer
+College,8.01,74,57,2,7,69,Web Developer
+College,7.22,75,86,10,7,79,Web Developer
+College,6.74,90,83,1,10,86,Data Scientist
+College,7.55,83,99,10,10,50,Mobile App Developer
+College,7.1,86,87,6,4,99,Software Engineer
+College,8.62,50,70,8,0,53,Cybersecurity Analyst
+College,7.1,79,55,8,4,62,Project Manager
+College,9.08,87,61,9,9,73,Mobile App Developer
+College,8.83,65,98,3,4,67,HR Executive
+College,7.02,100,71,2,9,50,Data Scientist
+College,6.28,62,71,6,7,72,Project Manager
+College,8.2,90,98,1,3,94,Business Analyst
+College,8.51,87,58,0,4,72,Cybersecurity Analyst
+College,6.21,94,76,6,6,54,Digital Marketing Specialist
+College,9.3,56,75,3,2,90,HR Executive
+College,9.48,59,92,0,5,96,Cloud Engineer
+College,8.74,84,68,3,8,67,Mobile App Developer
+College,9.63,50,51,9,5,90,Software Engineer
+College,6.2,91,100,8,1,85,Cloud Engineer
+College,7.17,89,75,10,1,84,Business Analyst
+College,9.73,67,83,9,5,53,Digital Marketing Specialist
+College,7.69,73,96,4,2,75,Digital Marketing Specialist
+College,8.11,92,87,4,3,67,Web Developer
+College,8.62,68,95,9,2,75,Project Manager
+College,6.57,78,53,3,10,91,Project Manager
+College,6.35,93,95,9,1,57,Mobile App Developer
+College,9.74,68,70,0,10,79,Project Manager
+College,6.03,100,80,8,0,59,Mobile App Developer
+College,7.35,63,50,3,3,84,Mobile App Developer
+College,7.6,57,52,6,6,61,AI Engineer
+College,8.17,100,67,6,7,95,Cybersecurity Analyst
+College,6.05,68,71,1,7,92,AI Engineer
+College,9.68,76,88,5,2,66,Digital Marketing Specialist
+College,7.55,51,79,10,4,84,Data Scientist
+College,6.12,56,87,5,2,64,Cloud Engineer
+College,6.1,85,89,3,0,64,Cloud Engineer
+College,6.25,97,63,2,7,88,Digital Marketing Specialist
+College,8.99,83,67,0,9,59,AI Engineer
+College,8.2,59,58,0,10,67,Project Manager
+College,7.36,82,95,2,6,97,Project Manager
+College,6.64,78,84,0,1,52,Mobile App Developer
+College,9.42,73,76,2,0,56,Digital Marketing Specialist
+College,8.73,99,65,3,8,71,HR Executive
+College,7.64,54,59,9,4,96,Data Scientist
+College,6.61,98,87,1,6,80,Cloud Engineer
+College,9.22,50,74,8,5,61,Web Developer
+College,8.18,57,69,7,10,73,Digital Marketing Specialist
+College,7.31,54,85,1,10,51,Cloud Engineer
+College,7.69,59,78,3,8,84,Cloud Engineer
+College,9.69,53,55,6,6,60,Digital Marketing Specialist
+College,6.68,96,69,7,5,95,Software Engineer
+College,9.15,84,99,5,10,71,Mobile App Developer
+College,6.82,93,86,9,2,78,Mobile App Developer
+College,9.97,57,76,2,0,95,Cybersecurity Analyst
+College,7.15,95,58,3,4,72,Cloud Engineer
+College,8.15,99,86,4,5,93,Mobile App Developer
+College,6.97,76,62,8,4,67,Mobile App Developer
+College,8.2,93,98,10,8,56,HR Executive
+College,8.91,79,75,0,6,81,Cloud Engineer
+College,8.05,58,82,6,10,82,Software Engineer
+College,6.13,53,66,2,1,69,Data Scientist
+College,8.95,68,65,1,10,63,Cybersecurity Analyst
+College,9.95,58,78,7,1,86,Digital Marketing Specialist
+College,6.92,78,69,0,7,82,Cloud Engineer
+College,6.95,98,77,2,6,99,Project Manager
+College,9.02,62,60,10,1,80,HR Executive
+College,7.2,51,74,0,5,66,Web Developer
+College,7.69,81,80,6,2,86,Business Analyst
+College,7.15,79,95,6,1,64,Business Analyst
+College,7.41,74,53,7,9,88,Business Analyst
+College,8.37,58,63,0,2,51,AI Engineer
+College,8.66,92,76,6,10,81,Software Engineer
+College,7.51,76,92,9,5,55,Cybersecurity Analyst
+College,6.15,75,72,4,0,90,Mobile App Developer
+College,8.56,92,81,5,6,68,HR Executive
+College,8.56,71,70,6,1,56,Digital Marketing Specialist
+College,9.04,50,75,9,3,95,HR Executive
+College,7.61,86,95,10,2,50,Business Analyst
+College,9.94,67,58,2,8,52,Cybersecurity Analyst
+College,9.13,86,84,7,4,51,Business Analyst
+College,9.29,83,52,7,1,87,Software Engineer
+College,6.24,77,94,10,2,70,Data Scientist
+College,9.37,83,67,5,1,99,Software Engineer
+College,8.54,62,93,7,9,83,Web Developer
+College,9.54,50,87,3,4,65,Digital Marketing Specialist
+College,6.63,92,93,0,4,56,Cloud Engineer
+College,9.29,69,50,5,1,90,Mobile App Developer
+College,6.71,77,59,7,6,63,HR Executive
+College,9.13,86,50,9,6,97,Web Developer
+College,8.51,51,57,8,4,97,Digital Marketing Specialist
+College,6.06,64,62,4,8,63,Business Analyst
+College,8.05,83,65,8,0,83,Digital Marketing Specialist
+College,7.49,53,86,10,10,88,Cloud Engineer
+College,8.59,85,70,7,7,58,Digital Marketing Specialist
+College,8.47,87,65,10,8,58,Mobile App Developer
+College,6.31,66,72,1,6,100,Cloud Engineer
+College,6.05,98,66,0,3,93,Cloud Engineer
+College,9.13,90,99,8,4,50,Project Manager
+College,6.85,80,94,9,6,58,Mobile App Developer
+College,6.69,50,55,9,5,57,Software Engineer
+College,9.62,58,56,10,3,81,Software Engineer
+College,8.69,73,52,6,5,96,AI Engineer
+College,9.81,98,52,8,7,86,Business Analyst
+College,8.88,66,67,7,2,76,Business Analyst
+College,7.35,82,50,1,0,58,AI Engineer
+College,7.47,86,88,6,4,98,Cybersecurity Analyst
+College,8.93,63,60,7,1,57,Data Scientist
+College,6.22,96,87,4,0,92,Digital Marketing Specialist
+College,9.79,98,70,5,9,69,Software Engineer
+College,8.86,76,71,3,0,99,Data Scientist
+College,8.36,85,77,3,8,51,Cloud Engineer
+College,6.03,81,67,3,5,64,AI Engineer
+College,9.79,69,50,6,0,51,Digital Marketing Specialist
+College,9.38,99,94,4,1,59,AI Engineer
+College,8.2,94,64,8,5,54,Web Developer
+College,7.95,92,94,3,1,70,Software Engineer
+College,6.59,67,75,7,5,89,Web Developer
+College,6.86,82,84,6,9,58,Cloud Engineer
+College,6.65,67,89,10,10,99,Business Analyst
+College,6.71,96,80,5,8,86,AI Engineer
+College,8.38,90,69,2,9,58,Data Scientist
+College,8.96,57,79,3,8,76,Business Analyst
+College,8.31,51,96,8,5,80,Business Analyst
+College,7.81,89,63,4,8,65,Data Scientist
+College,6.23,67,56,3,5,53,AI Engineer
+College,8.29,86,97,7,9,59,Web Developer
+College,7.68,56,87,4,4,85,Mobile App Developer
+College,7.13,55,64,2,6,63,Cloud Engineer
+College,9.39,89,62,7,1,62,Business Analyst
+College,9.78,75,77,7,0,87,HR Executive
+College,9.15,67,72,7,1,63,Web Developer
+College,8.4,95,97,0,6,62,Data Scientist
+College,9.87,78,89,10,2,63,HR Executive
+College,8.3,74,92,7,8,58,Mobile App Developer
+College,6.78,55,91,8,2,70,Digital Marketing Specialist
+College,7.33,88,51,2,10,92,Project Manager
+College,6.89,76,70,7,9,60,Mobile App Developer
+College,9.81,83,85,5,4,70,Business Analyst
+College,9.79,60,93,10,5,61,AI Engineer
+College,9.73,52,60,3,7,56,Software Engineer
+College,6.2,83,57,0,5,96,Web Developer
+College,7.93,68,76,2,0,74,AI Engineer
+College,6.04,89,91,2,6,54,Project Manager
+College,6.96,68,89,0,10,96,Business Analyst
+College,8.11,83,96,1,3,67,HR Executive
+College,6.47,98,89,4,10,60,Software Engineer
+College,8.57,98,56,8,4,62,Data Scientist
+College,9.96,95,97,10,5,59,Cybersecurity Analyst
+College,9.85,54,91,3,6,64,Digital Marketing Specialist
+College,9.31,86,71,9,6,79,Mobile App Developer
+College,9.55,95,71,4,8,65,Project Manager
+College,8.1,90,55,7,10,55,Software Engineer
+College,9.46,69,78,0,9,56,Digital Marketing Specialist
+College,8.36,95,57,3,6,76,Mobile App Developer
+College,9.91,55,96,4,5,90,Digital Marketing Specialist
+College,8.26,76,74,10,2,80,Software Engineer
+College,6.86,51,52,1,3,88,Project Manager
+College,7.52,88,52,9,7,92,Data Scientist
+College,6.67,72,92,7,3,72,HR Executive
+College,7.37,68,83,9,5,93,Business Analyst
+College,9.8,93,56,6,3,92,Cloud Engineer
+College,8.49,77,79,9,8,54,Cloud Engineer
+College,9.31,77,50,9,8,82,Project Manager
+College,9,62,83,0,7,62,Cybersecurity Analyst
+College,8.37,91,52,10,0,63,Cybersecurity Analyst
+College,8.71,50,77,10,0,79,Business Analyst
+College,6.77,63,76,4,4,63,HR Executive
+College,8.52,87,95,0,6,68,AI Engineer
+College,9.22,54,59,5,9,57,Data Scientist
+College,9.99,72,68,6,5,68,Digital Marketing Specialist
+College,6.4,71,67,5,5,87,Software Engineer
+College,6.07,81,94,8,10,88,HR Executive
+College,8.86,91,55,7,2,56,Digital Marketing Specialist
+College,9.14,72,76,6,2,78,Data Scientist
+College,8.53,77,57,2,9,68,Mobile App Developer
+College,7.22,71,51,6,2,85,Software Engineer
+College,8.92,55,73,5,0,94,Business Analyst
+College,9.77,87,62,8,8,100,Project Manager
+College,7.36,50,60,5,8,54,Digital Marketing Specialist
+College,8.54,77,55,9,6,72,Data Scientist
+College,7.62,51,53,10,2,69,AI Engineer
+College,9.74,98,89,6,7,54,Project Manager
+College,9.65,92,95,6,7,88,Digital Marketing Specialist
+College,9.18,95,97,9,1,100,AI Engineer
+College,6.79,74,90,5,1,70,Mobile App Developer
+College,9.73,70,55,6,3,73,Cybersecurity Analyst
+College,8.04,94,91,6,6,88,Data Scientist
+College,9.46,55,65,0,8,90,Web Developer
+College,8.93,63,55,3,2,80,Mobile App Developer
+College,9.88,62,60,5,4,56,Data Scientist
+College,9.61,88,81,9,1,61,Project Manager
+College,6.72,51,63,6,4,59,Web Developer
+College,9.51,83,68,3,4,82,Data Scientist
+College,8.68,93,93,2,3,92,HR Executive
+College,6.8,74,72,9,9,98,Cybersecurity Analyst
+College,8.03,70,89,10,9,76,HR Executive
+College,9.69,84,60,10,7,67,Cybersecurity Analyst
+College,7.69,60,71,3,7,67,Project Manager
+College,6.83,82,64,7,2,85,Cybersecurity Analyst
+College,7.52,66,79,10,4,90,Cybersecurity Analyst
+College,6.23,93,99,7,8,51,Cloud Engineer
+College,9.43,73,54,10,3,59,Business Analyst
+College,8.87,74,81,0,10,83,Mobile App Developer
+College,7.84,57,87,4,5,76,AI Engineer
+College,6.44,64,54,1,5,93,Digital Marketing Specialist
+College,9.88,81,69,4,6,87,Cybersecurity Analyst
+College,9.89,100,59,5,5,77,Cybersecurity Analyst
+College,6.34,90,63,3,1,64,Digital Marketing Specialist
+College,8.14,93,50,2,3,85,HR Executive
+College,6.47,85,91,5,2,72,HR Executive
+College,9.72,54,63,1,9,86,Cloud Engineer
+College,7.79,72,88,1,3,94,Software Engineer
+College,8.48,53,76,1,2,53,Cybersecurity Analyst
+College,9.33,75,62,7,4,55,Cybersecurity Analyst
+College,7.75,52,79,6,1,58,Web Developer
+College,6.28,89,62,2,0,57,Business Analyst
+College,6.74,61,86,9,8,75,Data Scientist
+College,9.05,60,68,6,3,73,Software Engineer
+College,7.55,97,96,9,1,81,Data Scientist
+College,9.58,94,89,3,7,63,Data Scientist
+College,8.25,97,99,4,2,81,Digital Marketing Specialist
+College,8.42,67,65,9,6,57,Mobile App Developer
+College,8.74,74,63,9,7,95,Software Engineer
+College,8.24,89,55,1,4,83,Data Scientist
+College,6.96,71,51,6,9,93,AI Engineer
+College,7.62,57,95,2,5,64,Web Developer
+College,8.84,53,65,3,8,51,Project Manager
+College,7.1,64,73,4,7,95,Cybersecurity Analyst
+College,6.34,60,51,10,10,54,Web Developer
+College,8.9,71,61,9,3,52,AI Engineer
+College,7.29,100,99,7,5,56,HR Executive
+College,8.96,88,95,1,5,59,Project Manager
+College,9.48,91,77,5,9,84,AI Engineer
+College,8.07,58,98,1,3,79,Data Scientist
+College,6.74,89,100,5,6,92,AI Engineer
+College,8.03,94,70,2,8,84,Business Analyst
+College,6.78,54,88,5,10,52,Cloud Engineer
+College,6.22,50,73,2,1,70,AI Engineer
+College,7.12,82,67,8,1,72,Web Developer
+College,9.83,61,85,0,6,63,Web Developer
+College,8.15,75,69,6,7,69,Business Analyst
+College,8.32,76,76,6,8,81,Project Manager
+College,7.3,93,59,9,6,74,Cloud Engineer
+College,6.73,90,65,2,10,71,Software Engineer
+College,7.97,82,73,7,2,57,AI Engineer
+College,6.51,77,83,7,9,92,Mobile App Developer
+College,8.36,94,53,1,3,51,Digital Marketing Specialist
+College,9.33,97,63,8,4,99,Software Engineer
+College,8.2,74,76,2,5,61,Web Developer
+College,7.58,79,53,2,8,57,Business Analyst
+College,7.04,96,61,4,1,81,Mobile App Developer
+College,9.26,65,74,2,8,62,HR Executive
+College,9.95,52,82,6,6,97,Digital Marketing Specialist
+College,8.53,95,83,10,8,66,Project Manager
+College,9.92,62,86,6,7,97,Project Manager
+College,6.81,81,90,5,10,96,Cloud Engineer
+College,7.69,93,69,9,4,96,Cloud Engineer
+College,7.51,87,56,7,9,95,Digital Marketing Specialist
+College,7,61,62,8,0,72,Data Scientist
+College,6.6,89,100,9,4,90,Mobile App Developer
+College,7.08,96,59,5,3,66,Software Engineer
+College,8.66,87,94,4,2,63,Project Manager
+College,7.72,80,55,6,9,95,HR Executive
+College,7.22,85,50,8,4,60,Data Scientist
+College,7.29,94,54,2,2,89,Web Developer
+College,7.13,96,76,3,10,52,Data Scientist
+College,8.37,93,80,9,3,83,Web Developer
+College,10,69,91,3,5,78,Mobile App Developer
+College,7.86,77,95,1,10,80,Data Scientist
+College,7.33,87,82,0,8,79,Software Engineer
+College,6.56,99,87,2,3,69,Web Developer
+College,8.08,77,50,10,9,64,Web Developer
+College,9.93,59,83,7,3,97,Cybersecurity Analyst
+College,9.69,89,60,1,2,85,HR Executive
+College,6.88,78,71,2,4,80,Cloud Engineer
+College,8.83,94,95,2,4,59,Software Engineer
+College,6.33,77,78,0,0,59,Project Manager
+College,8.02,96,54,6,10,82,Cloud Engineer
+College,9.44,81,74,10,1,90,AI Engineer
+College,9.54,94,83,0,1,72,Mobile App Developer
+College,8.66,69,53,6,7,88,Cloud Engineer
+College,6.27,51,99,6,5,61,Web Developer
+College,8.21,88,63,1,5,86,Data Scientist
+College,9.7,73,89,0,4,95,AI Engineer
+College,8.09,55,74,2,0,75,Digital Marketing Specialist
+College,8.91,92,86,3,0,86,Business Analyst
+College,7.53,76,96,1,3,91,AI Engineer
+College,7.08,68,71,5,5,93,Cloud Engineer
+College,9.02,64,78,0,6,62,Mobile App Developer
+College,9.04,88,61,3,4,56,Cloud Engineer
+College,7.62,62,50,8,9,67,Web Developer
+College,6.9,80,86,0,1,71,Business Analyst
+College,6.04,51,80,6,10,73,Business Analyst
+College,9.7,91,73,8,8,55,Data Scientist
+College,7.91,54,70,4,7,96,Digital Marketing Specialist
+College,8.28,66,52,4,5,100,Digital Marketing Specialist
+College,8.48,51,53,0,6,60,AI Engineer
+College,6.08,70,65,7,6,58,Data Scientist
+College,7.64,68,91,1,3,99,Cloud Engineer
+College,7.69,68,84,9,2,52,HR Executive
+College,9.62,80,85,7,9,59,HR Executive
+College,8.09,64,95,8,1,63,Cybersecurity Analyst
+College,7.09,51,89,3,5,99,Cloud Engineer
+College,9.29,74,80,5,7,69,Project Manager
+College,7.22,65,78,3,8,81,Data Scientist
+College,6.3,73,85,8,8,89,HR Executive
+College,6.09,94,58,8,3,100,Software Engineer
+College,8.97,55,55,3,6,86,AI Engineer
+College,6.16,92,53,2,9,98,Digital Marketing Specialist
+College,6.18,70,82,5,4,98,Software Engineer
+College,7.15,97,84,8,6,91,HR Executive
+College,9.42,52,69,2,3,71,AI Engineer
+College,9.53,80,56,3,2,67,HR Executive
+College,7.6,81,60,9,1,69,Cybersecurity Analyst
+College,8.16,69,78,1,2,90,Digital Marketing Specialist
+College,9.6,99,97,1,9,97,Cloud Engineer
+College,9.57,64,91,0,10,81,AI Engineer
+College,9,50,68,6,6,77,Mobile App Developer
+College,8.1,53,94,0,4,97,Cybersecurity Analyst
+College,7.07,57,50,8,1,81,Cybersecurity Analyst
+College,9.23,68,80,3,4,100,Business Analyst
+College,8.52,68,52,4,6,97,Business Analyst
+College,6.59,98,51,10,9,58,Web Developer
+College,7.85,50,82,0,8,86,Cybersecurity Analyst
+College,9.06,80,74,5,10,89,Digital Marketing Specialist
+College,8.42,76,99,10,8,96,Mobile App Developer
+College,9.14,88,62,8,6,85,Web Developer
+College,8.65,75,52,2,1,67,Business Analyst
+College,9.2,50,77,7,0,64,Digital Marketing Specialist
+College,9.57,53,56,7,1,79,Business Analyst
+College,6.95,98,80,6,10,53,HR Executive
+College,8.43,66,74,6,5,75,Web Developer
+College,7.1,59,87,4,7,86,Mobile App Developer
+College,7.47,52,100,1,8,68,Project Manager
+College,8.16,56,73,7,5,92,Digital Marketing Specialist
+College,7.28,89,73,1,1,50,Cloud Engineer
+College,7.12,75,92,8,0,95,Data Scientist
+College,6.67,53,92,4,6,87,Cybersecurity Analyst
+College,8.84,62,60,9,6,81,Project Manager
+College,9.88,58,92,8,1,90,Business Analyst
+College,8.98,54,87,5,8,70,Data Scientist
+College,8.16,73,69,10,2,56,AI Engineer
+College,9.24,81,91,1,8,85,HR Executive
+College,6.63,71,59,2,6,81,Cloud Engineer
+College,9.66,67,76,8,1,50,HR Executive
+College,7.05,75,89,9,10,77,Web Developer
+College,6.68,78,71,0,9,52,Digital Marketing Specialist
+College,6.57,53,87,9,9,80,Cloud Engineer
+College,7.51,83,92,1,0,65,Business Analyst
+College,6.47,100,57,7,8,92,Web Developer
+College,9.13,78,57,10,6,65,Data Scientist
+College,9.37,77,94,4,7,56,Cloud Engineer
+College,6.19,92,51,3,0,67,Cloud Engineer
+College,7.29,72,84,4,5,100,Software Engineer
+College,8.65,63,82,2,5,80,HR Executive
+College,9.67,66,85,5,4,59,Software Engineer
+College,8.03,83,85,5,3,92,Data Scientist
+College,7.29,90,59,2,7,97,Software Engineer
+College,8.54,84,81,2,2,65,HR Executive
+College,7.07,94,100,10,0,96,HR Executive
+College,7.23,73,93,4,9,54,Cloud Engineer
+College,6.97,91,68,8,2,65,Cybersecurity Analyst
+College,8.82,69,57,2,1,93,HR Executive
+College,7.34,61,59,9,4,58,Digital Marketing Specialist
+College,9.4,63,57,7,1,75,Data Scientist
+College,9.26,59,75,6,3,63,Cybersecurity Analyst
+College,8.13,94,88,2,4,65,Software Engineer
+College,9.18,97,84,1,4,79,Project Manager
+College,6.35,92,53,8,3,94,Cybersecurity Analyst
+College,9.96,58,61,0,10,70,HR Executive
+College,9.52,52,88,6,6,54,Web Developer
+College,7.32,81,58,6,6,80,Cybersecurity Analyst
+College,6.02,61,96,5,8,68,Web Developer
+College,9.86,93,60,1,10,61,Mobile App Developer
+College,8.45,87,73,5,1,98,AI Engineer
+College,6.41,91,90,0,5,80,Cybersecurity Analyst
+College,8.06,89,80,8,7,68,Cloud Engineer
+College,7.58,91,78,8,3,99,Cybersecurity Analyst
+College,7.01,69,53,5,0,87,Project Manager
+College,8.46,88,54,10,8,82,HR Executive
+College,6.47,62,95,5,7,57,Digital Marketing Specialist
+College,8.93,66,72,7,9,97,Software Engineer
+College,8.18,98,98,1,5,74,Mobile App Developer
+College,8.52,98,70,0,8,67,Cybersecurity Analyst
+College,8.86,90,82,2,3,76,HR Executive
+College,9.09,78,69,6,7,92,Web Developer
+College,7.28,61,64,7,5,94,AI Engineer
+College,7.83,73,92,7,3,69,Cloud Engineer
+College,9.15,99,86,6,6,78,Business Analyst
+College,7.43,69,99,2,0,98,Software Engineer
+College,6.14,60,89,6,9,61,Software Engineer
+College,9.69,72,78,9,3,58,HR Executive
+College,6.45,85,90,5,8,54,Web Developer
+College,8.07,93,81,7,2,84,AI Engineer
+College,6.63,83,95,6,6,82,Web Developer
+College,9.02,71,68,9,4,56,HR Executive
+College,7.01,61,50,6,4,86,AI Engineer
+College,7.23,92,79,0,10,92,Software Engineer
+College,6.6,86,57,2,1,50,Cloud Engineer
+College,6.1,98,83,2,2,63,Digital Marketing Specialist
+College,7.1,61,88,0,4,95,Cloud Engineer
+College,8.38,60,84,2,5,68,HR Executive
+College,7.45,83,65,5,1,57,Business Analyst
+College,9.31,84,70,2,9,72,Data Scientist
+College,8.25,70,58,3,8,75,Data Scientist
+College,8.26,77,60,4,6,53,HR Executive
+College,8.12,52,90,6,6,77,Project Manager
+College,9.18,94,95,5,10,76,Cloud Engineer
+College,7.83,76,79,6,1,72,Digital Marketing Specialist
+College,9.88,85,95,10,2,93,Cybersecurity Analyst
+College,6.22,96,86,5,4,77,Data Scientist
+College,6.2,95,79,1,9,84,Cybersecurity Analyst
+College,7.51,88,70,1,6,81,Web Developer
+College,9.72,59,91,10,5,81,HR Executive
+College,6.05,57,65,1,1,80,Data Scientist
+College,7.87,71,93,7,7,75,Software Engineer
+College,9.55,86,74,2,2,89,HR Executive
+College,7.64,82,50,9,6,88,Data Scientist
+College,7.73,89,85,8,9,73,Digital Marketing Specialist
+College,7.16,81,75,0,5,74,Web Developer
+College,9.39,79,72,8,1,93,Project Manager
+College,9.57,61,68,7,8,95,Web Developer
+College,8.61,76,90,8,8,100,Cybersecurity Analyst
+College,8.9,67,89,8,4,89,Cloud Engineer
+College,7.13,59,97,3,8,55,Business Analyst
+College,7.77,79,76,10,10,70,Web Developer
+College,6.49,77,57,4,7,82,Mobile App Developer
+College,6.78,59,97,9,6,83,AI Engineer
+College,7.52,62,52,0,4,83,Cloud Engineer
+College,8.01,98,90,6,2,86,Software Engineer
+College,8.84,75,75,2,0,83,Mobile App Developer
+College,9.62,80,50,8,4,94,Data Scientist
+College,6.28,81,89,3,7,63,Digital Marketing Specialist
+College,7.86,59,64,5,10,55,Cloud Engineer
+College,6.75,60,94,10,4,58,Web Developer
+College,6.32,57,76,5,10,85,Project Manager
+College,8.59,56,74,7,3,64,Project Manager
+College,8.67,54,81,0,7,70,Cybersecurity Analyst
+College,7.24,74,55,8,7,56,AI Engineer
+College,8.4,66,75,6,9,89,Cloud Engineer
+College,9.4,91,68,1,9,62,HR Executive
+College,7.93,77,78,4,1,67,AI Engineer
+College,8.98,77,95,1,8,94,Mobile App Developer
+College,9.34,71,94,7,8,54,Software Engineer
+College,7.1,76,70,1,7,72,Business Analyst
+College,8.78,77,62,4,0,72,AI Engineer
+College,6.92,51,61,3,3,66,Data Scientist
+College,6.92,80,80,4,10,91,Cybersecurity Analyst
+College,6.68,79,84,5,8,53,Cloud Engineer
+College,8.73,70,92,6,7,92,Mobile App Developer
+College,9.09,56,82,3,1,75,Business Analyst
+College,9.74,59,75,5,6,73,Software Engineer
+College,9.99,66,80,7,7,74,Web Developer
+College,6.47,79,51,1,3,96,Web Developer
+College,8.58,97,97,6,1,88,Web Developer
+College,8.07,100,66,1,10,66,Mobile App Developer
+College,7.04,61,66,0,10,51,Mobile App Developer
+College,7.03,66,79,4,4,71,Cloud Engineer
+College,9.99,55,99,2,5,63,Project Manager
+College,9.98,64,87,3,10,50,Web Developer
+College,9.32,75,76,0,10,64,Data Scientist
+College,7.7,58,58,9,2,79,Digital Marketing Specialist
+College,7.56,95,90,7,3,95,Software Engineer
+College,7.49,80,71,1,3,84,Cloud Engineer
+College,8.34,59,78,10,7,58,Mobile App Developer
+College,9.31,77,83,5,0,60,Cybersecurity Analyst
+College,6.27,51,64,3,7,87,HR Executive
+College,6.17,98,99,6,0,99,AI Engineer
+College,8.47,79,100,2,4,63,Digital Marketing Specialist
+College,7.83,89,73,4,10,81,AI Engineer
+College,9.31,69,93,6,10,58,Data Scientist
+College,7.21,88,59,7,6,78,Web Developer
+College,9.2,72,97,1,9,69,AI Engineer
+College,7.22,55,97,1,2,61,Mobile App Developer
+College,6.14,85,85,3,1,50,Software Engineer
+College,6.23,99,67,7,5,62,Business Analyst
+College,7.14,84,68,6,0,64,Mobile App Developer
+College,8.2,98,75,6,0,98,Mobile App Developer
+College,8.04,92,86,6,6,82,Cybersecurity Analyst
+College,6.11,77,78,0,4,67,Mobile App Developer
+College,6.44,85,96,1,8,83,Web Developer
+College,9.9,86,50,4,9,83,Cybersecurity Analyst
+College,7.32,82,100,1,2,91,Business Analyst

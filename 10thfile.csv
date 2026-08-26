@@ -1,0 +1,501 @@
+﻿level,tenth_marks,maths,science,english,aptitude,communication,target
+10th,88,85,83,77,92,74,Computer Science
+10th,88,87,93,83,86,70,Computer Science
+10th,87,91,82,86,85,87,Computer Science
+10th,91,98,82,84,93,70,Computer Science
+10th,90,98,85,78,89,76,Computer Science
+10th,95,88,77,82,88,81,Computer Science
+10th,96,93,76,84,88,82,Computer Science
+10th,87,94,95,89,96,88,Computer Science
+10th,91,87,76,77,94,72,Computer Science
+10th,92,88,87,78,99,90,Computer Science
+10th,96,90,86,81,91,78,Computer Science
+10th,87,90,92,77,90,84,Computer Science
+10th,97,93,95,87,92,80,Computer Science
+10th,86,92,76,80,97,78,Computer Science
+10th,87,91,93,80,91,90,Computer Science
+10th,100,97,95,84,89,78,Computer Science
+10th,89,92,92,87,93,88,Computer Science
+10th,98,97,86,77,89,86,Computer Science
+10th,100,87,76,73,89,90,Computer Science
+10th,90,98,94,72,97,82,Computer Science
+10th,99,93,92,70,88,87,Computer Science
+10th,93,95,78,79,98,75,Computer Science
+10th,99,85,83,86,90,86,Computer Science
+10th,88,94,95,86,91,74,Computer Science
+10th,96,90,92,86,85,89,Computer Science
+10th,95,100,75,73,96,79,Computer Science
+10th,92,86,82,88,87,72,Computer Science
+10th,100,87,92,74,89,85,Computer Science
+10th,90,93,91,89,98,76,Computer Science
+10th,91,94,87,90,96,84,Computer Science
+10th,99,88,82,77,87,80,Computer Science
+10th,85,92,93,77,85,72,Computer Science
+10th,86,92,77,71,95,72,Computer Science
+10th,92,93,90,76,89,88,Computer Science
+10th,100,92,90,83,91,73,Computer Science
+10th,88,98,86,83,98,84,Computer Science
+10th,86,88,76,82,95,73,Computer Science
+10th,92,91,81,87,99,74,Computer Science
+10th,98,90,83,84,92,72,Computer Science
+10th,99,88,76,90,85,72,Computer Science
+10th,92,90,88,85,100,76,Computer Science
+10th,97,86,80,82,85,82,Computer Science
+10th,93,99,84,83,100,74,Computer Science
+10th,91,94,81,71,86,80,Computer Science
+10th,86,86,93,85,90,71,Computer Science
+10th,87,90,77,89,87,77,Computer Science
+10th,97,88,93,77,86,89,Computer Science
+10th,87,98,93,88,95,78,Computer Science
+10th,91,95,82,78,97,74,Computer Science
+10th,94,99,85,72,85,84,Computer Science
+10th,88,87,92,76,93,74,Computer Science
+10th,96,87,82,81,94,75,Computer Science
+10th,99,94,94,90,85,87,Computer Science
+10th,94,88,79,78,88,73,Computer Science
+10th,89,93,84,89,91,80,Computer Science
+10th,91,93,91,85,93,71,Computer Science
+10th,87,98,83,71,85,80,Computer Science
+10th,89,93,80,84,98,87,Computer Science
+10th,85,88,77,74,86,81,Computer Science
+10th,89,98,79,71,94,81,Computer Science
+10th,86,96,81,77,88,81,Computer Science
+10th,98,89,82,75,90,83,Computer Science
+10th,85,90,85,83,92,78,Computer Science
+10th,90,88,87,71,100,77,Computer Science
+10th,91,99,86,79,92,77,Computer Science
+10th,85,91,87,80,93,72,Computer Science
+10th,93,96,95,86,97,87,Computer Science
+10th,95,85,78,78,90,88,Computer Science
+10th,93,86,78,89,98,81,Computer Science
+10th,95,98,94,86,88,82,Computer Science
+10th,91,93,76,83,85,86,Computer Science
+10th,91,96,88,72,95,89,Computer Science
+10th,95,88,84,86,94,83,Computer Science
+10th,95,97,84,87,89,76,Computer Science
+10th,98,97,80,89,94,82,Computer Science
+10th,85,94,84,76,98,88,Computer Science
+10th,95,99,89,84,91,86,Computer Science
+10th,100,90,77,79,95,72,Computer Science
+10th,92,94,82,76,89,70,Computer Science
+10th,86,92,90,89,87,84,Computer Science
+10th,98,91,87,85,97,77,Computer Science
+10th,89,85,78,83,92,75,Computer Science
+10th,99,86,92,77,88,84,Computer Science
+10th,89,99,91,87,95,84,Computer Science
+10th,98,99,80,85,99,78,Computer Science
+10th,92,93,91,85,92,78,Computer Science
+10th,99,87,84,77,93,80,Computer Science
+10th,95,87,79,74,92,82,Computer Science
+10th,89,91,77,83,98,80,Computer Science
+10th,99,98,76,76,98,82,Computer Science
+10th,85,97,90,70,96,79,Computer Science
+10th,97,98,92,87,92,85,Computer Science
+10th,92,93,88,85,85,82,Computer Science
+10th,95,97,80,84,89,89,Computer Science
+10th,85,97,93,88,85,72,Computer Science
+10th,98,89,89,75,86,78,Computer Science
+10th,97,95,81,84,95,80,Computer Science
+10th,97,93,88,78,87,85,Computer Science
+10th,85,86,86,77,87,90,Computer Science
+10th,86,85,82,76,85,89,Computer Science
+10th,89,92,79,85,88,88,Computer Science
+10th,91,99,83,81,90,89,Computer Science
+10th,88,90,84,73,85,79,Computer Science
+10th,97,97,81,72,92,73,Computer Science
+10th,94,88,93,71,96,87,Computer Science
+10th,98,96,77,86,95,70,Computer Science
+10th,98,100,78,83,96,90,Computer Science
+10th,99,89,88,75,93,89,Computer Science
+10th,100,99,88,88,93,80,Computer Science
+10th,92,87,83,84,92,84,Computer Science
+10th,97,95,75,85,95,75,Computer Science
+10th,100,91,86,78,95,78,Computer Science
+10th,93,85,91,76,87,77,Computer Science
+10th,98,100,92,77,100,90,Computer Science
+10th,100,99,75,72,94,77,Computer Science
+10th,97,92,84,88,96,85,Computer Science
+10th,96,98,92,80,96,84,Computer Science
+10th,93,94,83,77,88,76,Computer Science
+10th,95,88,92,75,91,76,Computer Science
+10th,100,93,93,86,94,73,Computer Science
+10th,91,94,82,81,90,79,Computer Science
+10th,85,89,83,71,86,87,Computer Science
+10th,94,89,95,85,88,70,Computer Science
+10th,94,100,90,84,95,75,Computer Science
+10th,86,93,90,73,87,82,Computer Science
+10th,100,72,86,74,74,88,Biology
+10th,94,72,92,73,87,83,Biology
+10th,92,86,97,84,84,79,Biology
+10th,98,79,86,89,73,76,Biology
+10th,91,78,87,75,77,75,Biology
+10th,87,75,85,83,84,89,Biology
+10th,100,79,86,77,79,79,Biology
+10th,99,72,92,78,90,88,Biology
+10th,91,83,88,87,77,90,Biology
+10th,89,78,89,72,71,75,Biology
+10th,94,89,94,84,73,84,Biology
+10th,94,82,93,86,87,85,Biology
+10th,99,72,86,83,80,89,Biology
+10th,93,70,87,77,88,88,Biology
+10th,85,78,86,75,85,86,Biology
+10th,99,78,90,88,83,90,Biology
+10th,100,72,100,81,83,80,Biology
+10th,95,73,90,80,83,85,Biology
+10th,94,82,86,84,72,80,Biology
+10th,93,80,88,82,86,70,Biology
+10th,99,83,86,76,86,81,Biology
+10th,100,90,99,71,76,78,Biology
+10th,89,79,99,85,73,70,Biology
+10th,92,75,94,87,70,87,Biology
+10th,98,72,92,73,84,73,Biology
+10th,89,85,94,86,78,83,Biology
+10th,100,85,92,84,87,74,Biology
+10th,97,76,89,72,78,83,Biology
+10th,95,86,93,70,79,79,Biology
+10th,100,74,99,87,85,81,Biology
+10th,95,87,97,84,80,76,Biology
+10th,92,88,97,77,83,71,Biology
+10th,95,85,97,82,90,74,Biology
+10th,100,71,89,86,88,80,Biology
+10th,88,84,88,86,84,70,Biology
+10th,89,83,89,72,85,78,Biology
+10th,95,89,97,90,72,80,Biology
+10th,97,80,100,87,71,89,Biology
+10th,87,77,94,77,72,83,Biology
+10th,88,90,88,84,75,79,Biology
+10th,85,71,95,71,79,81,Biology
+10th,96,83,89,77,86,83,Biology
+10th,90,75,90,72,89,82,Biology
+10th,92,85,89,77,84,90,Biology
+10th,93,84,93,70,84,79,Biology
+10th,90,72,99,81,88,79,Biology
+10th,98,78,99,79,76,82,Biology
+10th,100,73,92,82,88,81,Biology
+10th,94,79,85,82,78,70,Biology
+10th,86,89,100,79,77,89,Biology
+10th,96,77,91,89,78,74,Biology
+10th,88,90,86,79,84,71,Biology
+10th,96,74,87,79,80,83,Biology
+10th,90,76,89,87,81,86,Biology
+10th,93,75,93,85,79,80,Biology
+10th,88,84,87,74,77,82,Biology
+10th,96,72,97,70,78,87,Biology
+10th,88,84,96,78,88,82,Biology
+10th,96,73,92,85,70,89,Biology
+10th,95,89,92,90,72,90,Biology
+10th,99,79,98,73,74,71,Biology
+10th,86,79,100,73,73,77,Biology
+10th,89,82,99,81,87,83,Biology
+10th,89,83,88,85,89,83,Biology
+10th,93,71,96,76,84,84,Biology
+10th,92,81,88,81,87,90,Biology
+10th,96,71,97,78,76,73,Biology
+10th,99,72,91,90,90,89,Biology
+10th,85,71,95,77,74,88,Biology
+10th,91,72,91,88,76,77,Biology
+10th,95,74,85,78,74,74,Biology
+10th,93,75,88,70,74,70,Biology
+10th,96,77,95,70,75,78,Biology
+10th,86,74,98,86,73,72,Biology
+10th,100,84,96,86,88,73,Biology
+10th,99,86,92,89,71,86,Biology
+10th,94,84,85,71,85,82,Biology
+10th,98,73,100,84,72,72,Biology
+10th,95,89,89,72,74,78,Biology
+10th,95,82,94,84,86,89,Biology
+10th,98,73,88,90,90,87,Biology
+10th,91,83,99,77,83,80,Biology
+10th,99,82,98,73,80,83,Biology
+10th,95,78,96,74,85,72,Biology
+10th,87,72,87,83,73,81,Biology
+10th,89,87,86,88,87,87,Biology
+10th,95,73,98,81,83,71,Biology
+10th,94,89,94,81,73,88,Biology
+10th,91,74,100,77,73,81,Biology
+10th,96,73,93,88,77,83,Biology
+10th,85,89,93,70,75,78,Biology
+10th,94,80,96,70,75,74,Biology
+10th,97,72,89,90,70,72,Biology
+10th,91,82,98,84,80,75,Biology
+10th,96,79,95,88,89,72,Biology
+10th,86,74,90,89,71,72,Biology
+10th,93,84,98,85,89,84,Biology
+10th,98,78,91,86,73,81,Biology
+10th,98,73,94,88,85,86,Biology
+10th,94,71,92,82,89,71,Biology
+10th,85,76,94,76,74,78,Biology
+10th,94,80,88,70,85,83,Biology
+10th,90,74,97,87,77,86,Biology
+10th,96,72,97,71,83,70,Biology
+10th,99,72,95,88,83,88,Biology
+10th,97,90,98,79,73,82,Biology
+10th,85,80,90,89,84,81,Biology
+10th,87,83,88,77,83,88,Biology
+10th,97,86,87,82,79,80,Biology
+10th,92,80,90,72,86,90,Biology
+10th,88,86,91,81,81,90,Biology
+10th,89,77,88,74,78,76,Biology
+10th,90,89,89,90,72,75,Biology
+10th,100,84,99,88,90,90,Biology
+10th,95,90,95,74,84,72,Biology
+10th,100,84,94,78,88,71,Biology
+10th,96,86,87,79,84,84,Biology
+10th,86,71,96,79,72,90,Biology
+10th,87,89,97,84,88,87,Biology
+10th,86,84,91,80,89,85,Biology
+10th,89,71,99,73,80,72,Biology
+10th,90,71,92,84,84,86,Biology
+10th,90,81,96,79,82,83,Biology
+10th,95,89,86,90,90,80,Biology
+10th,87,80,88,87,82,79,Biology
+10th,83,83,81,89,80,87,Commerce
+10th,93,81,64,96,79,97,Commerce
+10th,79,79,82,87,79,97,Commerce
+10th,95,85,70,89,86,87,Commerce
+10th,95,81,73,96,70,96,Commerce
+10th,84,65,66,95,85,91,Commerce
+10th,82,64,64,87,79,88,Commerce
+10th,91,84,77,86,80,89,Commerce
+10th,94,72,64,90,75,90,Commerce
+10th,89,61,73,96,77,99,Commerce
+10th,94,69,84,99,77,92,Commerce
+10th,84,85,85,100,76,96,Commerce
+10th,93,74,74,94,82,98,Commerce
+10th,80,66,85,89,78,86,Commerce
+10th,95,75,71,88,86,88,Commerce
+10th,84,62,84,90,78,99,Commerce
+10th,91,64,73,87,77,99,Commerce
+10th,86,60,73,86,82,96,Commerce
+10th,82,72,62,96,77,85,Commerce
+10th,85,63,82,95,74,89,Commerce
+10th,76,69,75,89,85,99,Commerce
+10th,94,60,62,85,78,91,Commerce
+10th,79,77,83,98,73,94,Commerce
+10th,82,69,63,86,77,98,Commerce
+10th,95,85,79,99,72,88,Commerce
+10th,90,79,77,85,90,92,Commerce
+10th,79,69,73,85,89,96,Commerce
+10th,82,78,73,90,72,96,Commerce
+10th,77,76,77,85,82,100,Commerce
+10th,76,80,72,96,78,85,Commerce
+10th,86,85,62,96,77,88,Commerce
+10th,93,83,84,95,74,86,Commerce
+10th,86,77,70,90,84,100,Commerce
+10th,95,65,85,89,72,99,Commerce
+10th,76,69,66,86,76,86,Commerce
+10th,85,69,76,97,87,100,Commerce
+10th,83,61,84,91,79,96,Commerce
+10th,76,80,70,93,73,96,Commerce
+10th,88,72,83,99,82,95,Commerce
+10th,80,75,82,100,81,93,Commerce
+10th,77,83,73,87,83,90,Commerce
+10th,92,69,70,88,72,95,Commerce
+10th,84,69,74,98,75,99,Commerce
+10th,86,74,61,96,89,98,Commerce
+10th,83,80,85,86,72,97,Commerce
+10th,86,76,85,90,70,89,Commerce
+10th,94,81,85,99,71,89,Commerce
+10th,77,67,84,96,81,97,Commerce
+10th,93,61,79,89,84,96,Commerce
+10th,86,74,84,87,88,89,Commerce
+10th,91,71,72,95,90,93,Commerce
+10th,82,63,60,90,85,97,Commerce
+10th,92,63,68,93,84,91,Commerce
+10th,94,69,82,100,76,88,Commerce
+10th,79,62,74,90,84,87,Commerce
+10th,85,81,71,87,87,94,Commerce
+10th,84,65,82,90,81,92,Commerce
+10th,78,66,85,89,77,100,Commerce
+10th,75,71,77,96,84,89,Commerce
+10th,94,62,62,94,82,100,Commerce
+10th,91,73,84,98,88,87,Commerce
+10th,79,70,80,87,84,99,Commerce
+10th,91,71,64,90,74,98,Commerce
+10th,91,61,63,89,79,90,Commerce
+10th,80,70,82,92,81,94,Commerce
+10th,77,68,66,93,74,94,Commerce
+10th,94,77,62,90,88,89,Commerce
+10th,80,81,79,95,88,86,Commerce
+10th,75,62,61,93,90,91,Commerce
+10th,93,73,79,85,85,94,Commerce
+10th,95,69,75,92,82,94,Commerce
+10th,89,62,82,86,75,99,Commerce
+10th,88,75,74,91,80,89,Commerce
+10th,85,82,70,96,82,89,Commerce
+10th,86,76,77,88,80,92,Commerce
+10th,89,63,68,99,77,89,Commerce
+10th,78,61,69,97,89,98,Commerce
+10th,82,65,70,95,76,90,Commerce
+10th,90,76,74,100,79,100,Commerce
+10th,75,62,72,99,77,91,Commerce
+10th,93,71,61,86,79,100,Commerce
+10th,94,80,81,100,79,85,Commerce
+10th,78,73,64,93,81,97,Commerce
+10th,86,61,72,86,88,91,Commerce
+10th,86,77,69,87,82,99,Commerce
+10th,92,68,79,88,74,88,Commerce
+10th,87,71,85,95,87,96,Commerce
+10th,79,66,79,97,86,86,Commerce
+10th,76,61,64,95,85,99,Commerce
+10th,79,79,76,89,80,95,Commerce
+10th,80,72,79,94,88,95,Commerce
+10th,91,76,77,100,88,94,Commerce
+10th,90,60,71,95,73,98,Commerce
+10th,93,69,85,85,89,100,Commerce
+10th,83,80,85,92,71,100,Commerce
+10th,80,76,80,97,74,92,Commerce
+10th,76,78,82,88,76,85,Commerce
+10th,89,70,73,89,83,91,Commerce
+10th,88,76,84,100,71,89,Commerce
+10th,91,66,77,95,85,97,Commerce
+10th,85,65,74,95,87,96,Commerce
+10th,95,85,82,93,89,100,Commerce
+10th,81,67,68,94,77,94,Commerce
+10th,84,82,66,100,80,100,Commerce
+10th,86,77,85,93,79,88,Commerce
+10th,93,81,77,97,82,96,Commerce
+10th,79,69,61,94,72,96,Commerce
+10th,89,80,68,100,76,91,Commerce
+10th,92,68,77,93,74,88,Commerce
+10th,94,83,78,92,77,86,Commerce
+10th,91,67,80,92,71,88,Commerce
+10th,88,70,82,100,73,89,Commerce
+10th,75,77,65,98,90,100,Commerce
+10th,90,80,66,94,80,94,Commerce
+10th,95,61,84,87,90,92,Commerce
+10th,92,83,83,86,75,98,Commerce
+10th,80,61,72,100,75,94,Commerce
+10th,76,60,69,88,80,94,Commerce
+10th,89,80,77,100,74,99,Commerce
+10th,83,66,85,88,80,90,Commerce
+10th,89,80,68,90,70,95,Commerce
+10th,84,78,81,91,75,97,Commerce
+10th,88,76,70,87,82,88,Commerce
+10th,80,64,75,95,77,85,Commerce
+10th,83,72,67,99,78,95,Commerce
+10th,69,68,73,93,55,83,Arts
+10th,80,61,72,82,56,96,Arts
+10th,63,64,59,80,67,96,Arts
+10th,76,79,78,97,79,84,Arts
+10th,82,53,70,84,66,94,Arts
+10th,67,57,80,79,70,79,Arts
+10th,74,73,69,86,68,97,Arts
+10th,77,79,65,99,72,100,Arts
+10th,81,76,56,99,62,96,Arts
+10th,84,69,77,100,57,91,Arts
+10th,74,66,72,86,57,93,Arts
+10th,63,51,76,92,71,81,Arts
+10th,78,67,54,80,65,91,Arts
+10th,74,53,71,81,77,93,Arts
+10th,75,52,78,91,69,100,Arts
+10th,61,64,54,91,68,89,Arts
+10th,78,51,67,89,76,100,Arts
+10th,69,73,50,87,63,75,Arts
+10th,83,56,68,77,56,88,Arts
+10th,71,72,52,92,56,77,Arts
+10th,89,65,51,84,68,80,Arts
+10th,84,54,74,95,78,95,Arts
+10th,90,63,61,87,69,87,Arts
+10th,72,52,71,96,72,79,Arts
+10th,80,77,61,78,60,92,Arts
+10th,72,66,54,98,62,75,Arts
+10th,84,50,59,89,76,98,Arts
+10th,77,63,67,87,62,82,Arts
+10th,74,61,54,83,61,98,Arts
+10th,84,53,51,100,76,88,Arts
+10th,79,74,79,75,62,81,Arts
+10th,62,53,69,76,69,94,Arts
+10th,81,72,77,76,62,98,Arts
+10th,61,62,64,82,72,81,Arts
+10th,84,77,74,76,59,91,Arts
+10th,69,57,76,98,73,85,Arts
+10th,78,69,74,96,65,82,Arts
+10th,69,78,54,96,71,82,Arts
+10th,73,59,58,76,72,93,Arts
+10th,88,73,79,80,75,96,Arts
+10th,73,67,65,76,66,95,Arts
+10th,81,62,75,91,65,97,Arts
+10th,73,63,54,84,67,80,Arts
+10th,84,67,65,82,62,84,Arts
+10th,87,72,54,100,69,76,Arts
+10th,77,63,80,88,72,91,Arts
+10th,64,62,57,83,61,85,Arts
+10th,80,52,79,89,66,77,Arts
+10th,77,73,76,81,56,83,Arts
+10th,72,71,69,94,56,77,Arts
+10th,66,75,74,93,78,96,Arts
+10th,77,56,65,81,65,84,Arts
+10th,90,79,50,81,61,98,Arts
+10th,63,73,74,90,62,97,Arts
+10th,79,72,56,87,62,92,Arts
+10th,70,74,59,87,69,92,Arts
+10th,80,61,59,83,66,91,Arts
+10th,88,65,64,78,80,98,Arts
+10th,75,74,76,85,61,86,Arts
+10th,70,63,51,93,62,98,Arts
+10th,64,50,58,92,73,93,Arts
+10th,83,63,59,79,61,85,Arts
+10th,67,62,68,82,70,92,Arts
+10th,80,80,71,85,63,99,Arts
+10th,86,65,80,98,75,98,Arts
+10th,75,64,55,98,80,86,Arts
+10th,65,54,73,92,70,80,Arts
+10th,89,78,67,95,56,91,Arts
+10th,61,76,77,77,76,76,Arts
+10th,84,50,63,79,75,82,Arts
+10th,62,72,54,75,61,91,Arts
+10th,74,61,51,94,75,96,Arts
+10th,89,69,79,90,76,90,Arts
+10th,60,50,67,92,68,75,Arts
+10th,60,66,73,83,72,84,Arts
+10th,60,66,76,97,76,88,Arts
+10th,85,80,79,80,58,78,Arts
+10th,76,54,57,81,74,91,Arts
+10th,68,76,61,83,80,87,Arts
+10th,62,61,80,87,69,93,Arts
+10th,67,72,57,84,76,77,Arts
+10th,80,77,70,99,56,77,Arts
+10th,72,62,62,92,70,76,Arts
+10th,80,50,72,80,57,90,Arts
+10th,87,63,70,100,65,93,Arts
+10th,87,53,78,91,56,82,Arts
+10th,66,78,77,97,73,90,Arts
+10th,68,51,79,77,76,83,Arts
+10th,88,67,68,96,56,80,Arts
+10th,89,77,60,75,61,93,Arts
+10th,64,74,76,97,67,77,Arts
+10th,69,55,68,82,73,87,Arts
+10th,81,78,67,85,67,99,Arts
+10th,83,54,75,97,78,77,Arts
+10th,76,73,61,76,58,88,Arts
+10th,67,76,52,85,74,99,Arts
+10th,79,80,69,87,79,85,Arts
+10th,60,70,58,100,69,90,Arts
+10th,67,61,67,87,68,80,Arts
+10th,81,68,71,87,57,99,Arts
+10th,79,59,75,82,77,77,Arts
+10th,62,58,54,87,77,100,Arts
+10th,80,54,73,87,65,86,Arts
+10th,63,52,50,84,69,86,Arts
+10th,84,58,53,79,57,80,Arts
+10th,73,64,67,92,71,88,Arts
+10th,63,50,52,86,72,77,Arts
+10th,79,69,75,85,67,75,Arts
+10th,69,63,62,99,57,98,Arts
+10th,88,67,78,82,73,91,Arts
+10th,65,71,62,80,59,83,Arts
+10th,69,58,65,79,57,80,Arts
+10th,73,58,63,84,70,100,Arts
+10th,62,61,58,82,78,95,Arts
+10th,75,69,69,81,69,78,Arts
+10th,64,59,50,87,65,94,Arts
+10th,72,75,77,85,69,85,Arts
+10th,73,76,76,95,74,79,Arts
+10th,69,60,69,97,61,90,Arts
+10th,70,55,80,87,65,84,Arts
+10th,83,72,70,90,73,100,Arts
+10th,67,60,62,83,80,87,Arts
+10th,71,53,79,93,61,93,Arts
+10th,77,55,71,99,72,75,Arts
+10th,90,73,64,97,61,89,Arts
